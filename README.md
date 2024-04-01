@@ -4,7 +4,7 @@
 
 # What is this?
 
-a simpler version of the [Doxbin](https://doxbin.org) with an open source backend made with Python and Flask.  the Hall of Loosers (similiar to Hall of Autism in the Original Website) can be easily edited using the `./data/hol.json`
+a simpler version of the [Datacloud](https://doxbin.org) with an open source backend made with Python and Flask.  the Hall of Loosers (similiar to Hall of Autism in the Original Website) can be easily edited using the `./data/hol.json`
 
 ## full credit for the concept and the frontend goes to the original [Doxbin](https://doxbin.org)
 
